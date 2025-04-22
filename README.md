@@ -146,9 +146,6 @@ scaler = joblib.load('models/scaler.pkl')
 **Nayomi Thilakarathna**  
 A fresher in Data Analytics passionate about machine learning, insights generation, and solving real-world business problems.  
 
-📫 [Connect on LinkedIn](https://www.linkedin.com/)  
-📂 [Explore My GitHub Projects](https://github.com/)  
-
 ---
 
 🌟 If you found this project useful, please consider giving it a ⭐ on GitHub!
